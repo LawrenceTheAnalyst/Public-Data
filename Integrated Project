@@ -1,0 +1,90 @@
+**Project Roadmap Summary**
+●
+The project aims to address challenges in the African insurance market, such as affordability and lack of insurance knowledge, with a goal to increase insurance penetration in the region.
+●
+The project will leverage data analysis and visualisation tools like Github, Skyvia, and Power BI to gain insights from insurance data and develop a viable solution.
+●
+The roadmap is structured around a framework that includes four key phases: Gather, Analyse, Deploy, and Explain. Each phase involves specific tasks and deliverables that contribute to the overall project objective.
+●
+A calendar timeline outlines estimated durations for each project stage, including planning, data processing, analysis, and deployment.
+●
+The project flow follows an iterative approach with facilitated sessions every two weeks to guide learners through the completion of specific tasks.
+Detailed Roadmap Breakdown
+1. Project Identification (2 weeks):
+●
+Introduce the project and its objectives, focusing on the African insurance market context.
+●
+Define a clear problem statement based on the market observations and challenges identified.
+●
+Key Deliverable: Design a project landscape.
+2. Planning (4 weeks):
+●
+Create a detailed project landscape to map out the problem domain, data sources, potential solutions, and required expertise.
+●
+Develop a project plan outlining tasks, timelines, resources, and responsibilities for each phase.
+●
+Key Deliverables:
+○
+Design a project landscape.
+○
+Design a project board.
+3. Data Cleaning & Processing (8 weeks):
+●
+Source insurance claims data from the provided Github repository.
+●
+Clean the data using Excel or Google Sheets, addressing missing values, outliers, and inconsistencies.
+●
+Perform feature engineering to create meaningful variables from the raw data.
+●
+Implement version control using Github to track changes and collaborate effectively.
+●
+Key Deliverables:
+○
+Create a Github account.
+○
+Setup a Skyvia account (optional).
+○
+Fork the data or add it to your personal repository.
+○
+Clean and upload data to Github.
+4. Exploratory Analysis (4 weeks):
+●
+Load the cleaned data into a suitable analytics environment like Power BI.
+●
+Conduct exploratory data analysis to understand data patterns, trends, and relationships.
+●
+Build a basic dashboard (Part 1) to visualise key insights and findings.
+●
+Key Deliverables:
+○
+Create a basic EDA notebook.
+○
+Create a Power BI instance & connect data.
+○
+Create basic cards, filters and table.
+5. Advanced Analytics (6 weeks):
+●
+Develop a compelling data story to communicate the insights and recommendations derived from the analysis.
+●
+Build an advanced dashboard (Part 2) to present the data story effectively, incorporating interactive visualisations and insights.
+●
+Conduct user testing and evaluation to gather feedback and refine the dashboard.
+●
+Key Deliverables:
+○
+Create advanced Dashboard.
+6. Deployment & Retrospectives (6 weeks):
+●
+Conduct a retrospective review of the project, identifying lessons learned and areas for improvement.
+●
+Finalise and deploy the solution, making it accessible to the intended audience.
+●
+Communicate the solution to stakeholders, highlighting the business value and impact.
+●
+Key Deliverables:
+○
+Manage Project board and self review.
+○
+Present findings to business.
+○
+Define business value.
